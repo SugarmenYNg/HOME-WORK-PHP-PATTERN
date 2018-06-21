@@ -1,0 +1,10 @@
+{
+    "name": "yuriy/home-work-php-pattern",
+    "authors": [
+        {
+            "name": "Yuriy Tsukrenko",
+            "email": "sugarmenyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
